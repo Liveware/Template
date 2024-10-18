@@ -1,3 +1,10 @@
+---
+name: 🐞 Bug Report
+about: Report a problem or unexpected behavior
+labels: ["🐞 bug", "issue"]
+assignees: ''
+---
+
 ## Bug Description
 <!-- Provide a clear and concise description of the bug. -->
 
