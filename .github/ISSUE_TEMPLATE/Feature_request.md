@@ -1,8 +1,8 @@
 ---
-name: 😎 새로운 기능 및 개선
-about: 아이디어 및 기획 제안
+name: 😎 New Feature or Improvement
+about: Suggest an idea or proposal
 title: 'feat: '
-labels: ["😎 개선", "enhancement"]
+labels: ["😎 improvement", "enhancement"]
 assignees: ''
 ---
 
