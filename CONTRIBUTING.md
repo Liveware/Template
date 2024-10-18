@@ -1,4 +1,3 @@
-```markdown
 # Contributing to [Project Name]
 
 ## Welcome!
