@@ -91,6 +91,3 @@ This project is maintained by [core contributors], and we are happy to assist wi
 ## Where Can I Ask for Help?
 
 If you need assistance, feel free to reach out via our [forum](link to forum), [developer mailing list](link to dev list), or [email](link to email). We're here to help!
-```
-
-This draft provides a structured overview for your `CONTRIBUTING.md` file, covering essential information and ensuring a welcoming environment for new contributors.
